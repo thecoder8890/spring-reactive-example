@@ -99,9 +99,3 @@ The following table list all sample codes related to the above posts.
 * [Reactive systems using Reactor](http://musigma.org/java/2016/11/21/reactor.html)
 * [Lite Rx API Hands-On with Reactor Core 3 ](https://github.com/reactor/lite-rx-api-hands-on)
 * [reactor-kotlin-workshop](https://github.com/eddumelendez/reactor-kotlin-workshop)
-
-## Special Thanks
-
-Specials thanks for Jetbrains's support by contributing an open-source license.
-
-[<img src="./jetbrains.png" height="250px" width="250px"/>](https://www.jetbrains.com/?from=spring-reactive-sample)
